@@ -1,4 +1,15 @@
-# Learning_CPP
-My progress in learning C++
+# Learning C++
 
-:)
+My journey learning C++.
+
+## Topics
+
+- Basic syntax
+- Arrays
+- Strings
+- Pointers
+- Vector
+- Set / Map
+- Data Structures
+- Algorithms
+- OOP
